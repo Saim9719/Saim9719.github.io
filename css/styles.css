@@ -62,7 +62,7 @@ h1, h2 {
 /* PROFILE
 -----------------------------------------------------*/
 header {
-  background: #F8F8FF;
+  background: #ffe8df;
 }
 
 /* PROJECTS/PORTFOLIO
@@ -98,7 +98,7 @@ header {
 /* WORK EXPERIENCE
 -----------------------------------------------------*/
 .work-experience {
-  background: #FDF5E6;
+  background: #ffffff;
 }
 
 
@@ -118,7 +118,8 @@ header {
 /* CONTACT DETAILS
 -----------------------------------------------------*/
 footer {
-  background: #F0E68C;
+  background: #888888;
+  color: white;
 }
 .contact-list {
   list-style-type: none;
