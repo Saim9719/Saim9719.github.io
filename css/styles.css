@@ -62,7 +62,7 @@ h1, h2 {
 /* PROFILE
 -----------------------------------------------------*/
 header {
-  background-image: url(../images/background-header.jpg);
+  background-image: url(../images/background-header.JPG);
   background-size: cover;
   background-position: center;
   padding-bottom: 100px;
@@ -141,8 +141,13 @@ footer {
 .contact-list a {
   padding: 15px;
   display: inline-block;
+  text-decoration: none;
+  color: lightgrey;
 }
 
+.contact-list a:hover {
+  color: white;
+}
 .material-icons {
   float: left;
   margin-right: 5px;
