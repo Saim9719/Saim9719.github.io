@@ -34,7 +34,7 @@ h3 {
   margin-bottom: 0;
 }
 h1, h2 {
-  font-family: 'Caveat Brush', cursive;
+  font-family: 'Caveat Brush', sans-serif;
   font-weight: 400;
   margin: 0;
 }
@@ -151,7 +151,6 @@ footer {
 .contact-list a {
   padding: 15px;
   display: inline-block;
-  font-size: ;
 }
 
 .material-icons {
