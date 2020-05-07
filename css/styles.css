@@ -69,19 +69,9 @@ header {
   height: 900px;
   }
 
-.profile-name {
-    left: 0;
-    line-height: 200px;
-    margin-top: -100px;
-    position: absolute;
-    text-align: center;
-    top: 50%;
-    width: 100%;
-    color: black;
-}
-
-.profile-name h2 {
-  margin-top: -60px;
+.content-first {
+  text-align: center;
+  margin: auto;
 }
 
 .profile {
@@ -197,5 +187,8 @@ footer {
   }
   .contact-list a {
     padding: 5px;
+  }
+  header {
+    height: 100%;
   }
 }
